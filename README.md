@@ -1,2 +1,2 @@
 # HackerRank
- Minhas submissões no HackerRank.
+ My submissions in HackerRank
